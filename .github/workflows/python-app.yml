@@ -31,3 +31,5 @@ jobs:
    
     - name: Python
       run: python execute-me.py
+    - name: bash
+      run: bash ./other/execute-me.sh
